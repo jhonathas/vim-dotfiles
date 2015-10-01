@@ -115,7 +115,7 @@ imap <C-v> <ESC>"+pa
 
 " ====== force do use h,j,k,l navigation keys =======
 
-noremap <Up> <Nop>
-noremap <Down> <Nop>
-noremap <Left> <Nop>
-noremap <Right> <Nop>
+" noremap <Up> <Nop>
+" noremap <Down> <Nop>
+" noremap <Left> <Nop>
+" noremap <Right> <Nop>
